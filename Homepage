@@ -1,0 +1,127 @@
+
+
+
+    
+    
+    ScribeHollow - Character Inspiration Hub
+    
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: linear-gradient(to right, #2c3e50, #3498db);
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background: #34495e;
+            padding: 1rem;
+        }
+        nav a {
+            color: white;
+            margin: 0 1rem;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #3498db;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .hero {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .hero h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .search-bar {
+            margin: 1rem 0;
+        }
+        .search-bar input {
+            padding: 0.5rem;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .search-bar button {
+            padding: 0.5rem 1rem;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .character-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+        .character-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .character-card img {
+            max-width: 100%;
+            border-radius: 4px;
+        }
+        .character-card h3 {
+            margin: 0.5rem 0;
+            font-size: 1.2rem;
+        }
+        footer {
+            background: #34495e;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+    
+
+
+    
+        ScribeHollow
+        Your hub for character inspiration in stories, games, and more
+    
+    
+        Home
+        Browse Characters
+        Submit a Character
+        Community
+        About
+    
+    
+        
+            Create Stories with ScribeHollow
+            Discover a growing library of characters for games, books, movies, and TV. Share your own to inspire creators worldwide!
+            
+                
+                Search
+            
+        
+        
+            
+                
+                Mia Harper
+                Petite redhead barista with a bold vibe, perfect for YA novels or indie games.
+                Tags: modern, music lover, small-town
+            
+            
+        
+    
+    
+        © 2025 ScribeHollow. All rights reserved.
+    
+(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'96687cef692ff2fd',t:'MTc1Mzc0ODgyMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();
